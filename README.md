@@ -1,5 +1,7 @@
 **Short description**
-Wall mounted 3D printed passive speakers for a home desk/ studio setup with bluetooth and Aux connectivity. All designs are original. Took me a month (mostly weekends) to plan the driver output, source the drivers,electronics and metal parts, model the body, print, assemble and iterate the speakers.
+
+Wall mounted 3D printed passive speakers for a home desk/ studio setup with bluetooth and Aux connectivity. Took me a month (mostly weekends) to plan the sound output, source the drivers, electronics and metal parts, model the body, print, assemble and iterate the speakers.
+All designs are original.
 
 **1. Introduction**
 
