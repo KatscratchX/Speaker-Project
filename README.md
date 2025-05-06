@@ -53,8 +53,12 @@ Given the bed size of the 3D printer (25.6 cm X 25.6 cm), I had to optimise the 
 Printer - Bambulab P1S
 
 Matte PLA - Black, White, grey and red
+
 Total printing time - 54 hours, 26 hours for each unit.
-Total material weight - 2,132 grams
+
+Total material weight - 2.1 Kg
+
+Speaker unit weight - 1.8 Kg X 2 
 ![image](https://github.com/user-attachments/assets/ca294124-ab2a-4276-84ef-dffffb6594ee)
 ![image](https://github.com/user-attachments/assets/a1a7e858-0654-4b1c-9fd4-8d25fdb75e7a)
 https://us.store.bambulab.com/products/p1s
