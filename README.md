@@ -51,6 +51,7 @@ Given the bed size of the 3D printer (25.6 cm X 25.6 cm), I had to optimise the 
 **6. 3d printing**
 
 Printer - Bambulab P1S
+
 Matte PLA - Black, White, grey and red
 Total printing time - 54 hours, 26 hours for each unit.
 Total material weight - 2,132 grams
