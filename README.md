@@ -56,6 +56,7 @@ Total printing time - 54 hours, 26 hours for each unit.
 Total material weight - 2,132 grams
 ![image](https://github.com/user-attachments/assets/ca294124-ab2a-4276-84ef-dffffb6594ee)
 ![image](https://github.com/user-attachments/assets/a1a7e858-0654-4b1c-9fd4-8d25fdb75e7a)
+https://us.store.bambulab.com/products/p1s
 
 **7. Assembly**
 
