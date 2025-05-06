@@ -46,6 +46,7 @@ https://www.diyaudioandvideo.com/Calculator/SpeakerBoxVolume/
 
 ![image](https://github.com/user-attachments/assets/f33bebe2-94ef-44a0-b9ef-2ac1af19d314)
 Modelled in Rhino 8, basic rhino rendering.
+Given the bed size of the 3D printer (25.6 cm X 25.6 cm), I had to optimise the design so that the parting lines became a design element. 
 
 **6. 3d printing**
 
